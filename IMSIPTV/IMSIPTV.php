@@ -1,6 +1,6 @@
 <?php
 /**
- * MwarePanel IPTV service provisioning module
+ * Mware Panel IPTV service provisioning module(Mware IPTV https://iptvmiddleware.com)
  * Developer : Rakesh Kumar
  * Email : whmcsninja@gmail.com
  * Website : whmcsninja.com
